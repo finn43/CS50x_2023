@@ -1,9 +1,7 @@
-# CS50x_2023-
-CS50x_2023 
+# [CS50x 2023 — Introduction to Computer Science](https://cs50.harvard.edu/x/2023/) - Problem Sets
 
 
-Week 1 C:
-Lab:
+- [Lab 1: Population Groth](/lab1)
 - population
 Set:
 - Credit 
